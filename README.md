@@ -54,18 +54,15 @@
 ### Some of the generated graphics
 
 ------------
-###### **using the pmdarima package**
-[![Brazil30days](https://imgur.com/KPAmDul "Brazil30days")](https://imgur.com/KPAmDul "Brazil30days")
+###### predictions of confirmed cases in the northern region - using the pmdarima package
+[![arimaNorth](https://i.imgur.com/5Y1pzK7.png "arimaNorth")](https://i.imgur.com/5Y1pzK7.png "arimaNorth")
 
-[![north30days](https://imgur.com/5Y1pzK7 "north30days")](https://imgur.com/5Y1pzK7 "north30days")
+###### predictions of confirmed cases in the northern region - using the fbprophet package
+[![fbprophetNorth](https://i.imgur.com/KTjwfQi.png "fbprophetNorth")](https://i.imgur.com/KTjwfQi.png "fbprophetNorth")
 
-###### using the fbprophet package
+###### predictions of confirmed cases in Brazil - using the pmdarima package
+[![arimaBrazil](https://i.imgur.com/KPAmDul.png "arimaBrazil")](https://i.imgur.com/KPAmDul.png "arimaBrazil")
 
-[![Brazil](https://imgur.com/Uy2TcfY "Brazil")](https://imgur.com/Uy2TcfY "Brazil")
-
-[![regiaoNorte](https://imgur.com/KTjwfQi "regiaoNorte")](https://imgur.com/KTjwfQi "regiaoNorte")
-
-
-
-
+###### predictions of confirmed cases in Brazil - using the fbprophet package
+[![fbprophetBrazil](https://i.imgur.com/Uy2TcfY.png "fbprophetBrazil")](https://i.imgur.com/Uy2TcfY.png "fbprophetBrazil")
 
