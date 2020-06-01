@@ -3,16 +3,16 @@
 ### About
 
 ###### Project developed in response to the challenge of Digital Innovation One in order to build models in Python and Machine Learning to predict the evolution of COVID-19 in Brazil.
-
+----
 ### Developer
 
 [Natália Araújo](https://www.linkedin.com/in/nat%C3%A1lia-freitas-ara%C3%BAjo-25a00b140/ "Natália Araújo")
-
+----
 ### Fount
 
 - Data used : [https://covid.saude.gov.br/](https://covid.saude.gov.br/ "https://covid.saude.gov.br/")
 - Training taken at DIO : [https://web.digitalinnovation.one/](https://web.digitalinnovation.one/ "https://web.digitalinnovation.one/")
-
+----
 ### Used Libraries
 
 - **re**
@@ -23,13 +23,13 @@
 - **statsmodels**
 - **pmdarima.arima**
 - **fbprophet**
-
+----
 ### Objectives
 
 - Analyze the data from two perspectives: national and for the northern region of Brazil
 - Find patterns in the data
 - Build Python and Machine Learning models to predict the evolution of COVID-19
-
+----
 ### Tasks Performed
 
 1. Importing libraries and data
@@ -61,7 +61,7 @@
 	a. autoregressive integrated moving average (ARIMA) - **using the pmdarima package**
 	
 	b. growth model to predict turning point on the curve - **using the fbprophet package**
-
+----
 ### Some of the generated graphics
 
 ###### predictions of confirmed cases in the northern region - using the pmdarima package
