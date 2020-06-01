@@ -33,22 +33,33 @@
 ### Tasks Performed
 ------------
 1. Importing libraries and data
+
 2. Normalization of data
+
 	*The data used contains information from all brazilian cities, to perform an analysis only of the north region it was necessary to filter the data by region and group (summing up) the data by date.*
 	
 3. Plotting graphs
+
 	a. confirmed cases
+	
 	b. new cases per day
+	
 	c. deaths by COVID-19
 	
 4. Cálculos de taxa de crescimento médio e diário
+
 5. Predictions
+
 	a. trend
+	
 	b. seasonality
+	
 	c. noise
 	
 6. Modeling
+
 	a. autoregressive integrated moving average (ARIMA) - **using the pmdarima package**
+	
 	b. growth model to predict turning point on the curve - **using the fbprophet package**
 
 ### Some of the generated graphics
