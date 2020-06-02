@@ -46,7 +46,7 @@
 	
 	c. deaths by COVID-19
 	
-4. Cálculos de taxa de crescimento médio e diário
+4. Average and daily growth rate calculations
 
 5. Predictions
 
