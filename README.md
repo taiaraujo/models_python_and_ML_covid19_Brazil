@@ -76,3 +76,6 @@
 ###### predictions of confirmed cases in Brazil - using the fbprophet package
 [![fbprophetBrazil](https://i.imgur.com/Uy2TcfY.png "fbprophetBrazil")](https://i.imgur.com/Uy2TcfY.png "fbprophetBrazil")
 
+## License
+
+MIT License
